@@ -1,0 +1,435 @@
+[2016-08-02 22:52:07.953] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 22:52:31.746] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:14:37.907] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:14:53.902] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:15:24.902] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:15:51.662] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:17:08.262] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:18:10.704] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:18:27.615] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:20:11.659] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:20:13.817] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:20:17.861] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:20:23.447] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:20:49.542] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:20:51.358] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:20:58.215] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:20:59.485] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:21:01.477] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:21:13.500] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:21:46.122] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:21:58.604] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:22:00.780] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:22:21.370] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:22:31.672] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:22:48.333] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:22:59.244] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:23:06.602] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:24:02.643] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:24:12.640] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:27:27.728] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:28:15.750] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:28:50.549] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:28:54.273] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:29:11.720] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:29:18.123] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:29:46.407] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:29:49.526] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:29:50.712] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:30:03.650] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:30:32.272] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:31:06.776] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:31:29.313] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:31:30.743] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:31:35.583] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:33:51.922] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:37:57.095] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:38:59.000] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:39:00.080] [ERROR] Notify - { [Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!]
+  code: 'EAUTH',
+  response: '535 5.7.8 Error: authentication failed: Invalid user or password!',
+  responseCode: 535,
+  command: 'AUTH PLAIN' }
+Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionAUTHComplete (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1180:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:307:22)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-02 23:39:32.193] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:39:33.010] [ERROR] Notify - { [Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!]
+  code: 'EAUTH',
+  response: '535 5.7.8 Error: authentication failed: Invalid user or password!',
+  responseCode: 535,
+  command: 'AUTH PLAIN' }
+Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionAUTHComplete (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1180:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:307:22)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-02 23:41:50.892] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:41:51.811] [ERROR] Notify - { [Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!]
+  code: 'EAUTH',
+  response: '535 5.7.8 Error: authentication failed: Invalid user or password!',
+  responseCode: 535,
+  command: 'AUTH PLAIN' }
+Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionAUTHComplete (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1180:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:307:22)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-02 23:43:34.721] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:43:49.343] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:43:50.257] [ERROR] Notify - { [Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!]
+  code: 'EAUTH',
+  response: '535 5.7.8 Error: authentication failed: Invalid user or password!',
+  responseCode: 535,
+  command: 'AUTH PLAIN' }
+Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionAUTHComplete (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1180:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:307:22)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-02 23:46:45.848] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:46:46.354] [ERROR] Notify - { [Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!]
+  code: 'EAUTH',
+  response: '535 5.7.8 Error: authentication failed: Invalid user or password!',
+  responseCode: 535,
+  command: 'AUTH PLAIN' }
+Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionAUTHComplete (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1180:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:307:22)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-02 23:48:00.806] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:48:01.559] [ERROR] Notify - { [Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!]
+  code: 'EAUTH',
+  response: '535 5.7.8 Error: authentication failed: Invalid user or password!',
+  responseCode: 535,
+  command: 'AUTH PLAIN' }
+Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionAUTHComplete (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1180:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:307:22)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-02 23:49:54.791] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:49:55.278] [ERROR] Notify - { [Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!]
+  code: 'EAUTH',
+  response: '535 5.7.8 Error: authentication failed: Invalid user or password!',
+  responseCode: 535,
+  command: 'AUTH PLAIN' }
+Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionAUTHComplete (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1180:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:307:22)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-02 23:50:07.027] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:50:07.962] [ERROR] Notify - { [Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!]
+  code: 'EAUTH',
+  response: '535 5.7.8 Error: authentication failed: Invalid user or password!',
+  responseCode: 535,
+  command: 'AUTH PLAIN' }
+Error: Invalid login: 535 5.7.8 Error: authentication failed: Invalid user or password!
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionAUTHComplete (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1180:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:307:22)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-02 23:50:40.144] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:51:05.891] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:51:06.776] [ERROR] Notify - { [Error: Mail command failed: 553 5.7.1 Sender address rejected: not owned by auth user.]
+  code: 'EENVELOPE',
+  response: '553 5.7.1 Sender address rejected: not owned by auth user.',
+  responseCode: 553,
+  command: 'MAIL FROM' }
+Error: Mail command failed: 553 5.7.1 Sender address rejected: not owned by auth user.
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionMAIL (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1201:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:724:14)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-02 23:51:53.350] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:51:54.052] [ERROR] Notify - { [Error: Mail command failed: 553 5.7.1 Sender address rejected: not owned by auth user.]
+  code: 'EENVELOPE',
+  response: '553 5.7.1 Sender address rejected: not owned by auth user.',
+  responseCode: 553,
+  command: 'MAIL FROM' }
+Error: Mail command failed: 553 5.7.1 Sender address rejected: not owned by auth user.
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionMAIL (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1201:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:724:14)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-02 23:51:55.738] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-02 23:51:57.093] [ERROR] Notify - { [Error: Mail command failed: 553 5.7.1 Sender address rejected: not owned by auth user.]
+  code: 'EENVELOPE',
+  response: '553 5.7.1 Sender address rejected: not owned by auth user.',
+  responseCode: 553,
+  command: 'MAIL FROM' }
+Error: Mail command failed: 553 5.7.1 Sender address rejected: not owned by auth user.
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionMAIL (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1201:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:724:14)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-03 09:59:47.529] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 09:59:48.070] [ERROR] Notify - { [Error: Mail command failed: 553 5.7.1 Sender address rejected: not owned by auth user.]
+  code: 'EENVELOPE',
+  response: '553 5.7.1 Sender address rejected: not owned by auth user.',
+  responseCode: 553,
+  command: 'MAIL FROM' }
+Error: Mail command failed: 553 5.7.1 Sender address rejected: not owned by auth user.
+    at SMTPConnection._formatError (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:493:15)
+    at SMTPConnection._actionMAIL (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:1201:30)
+    at SMTPConnection.<anonymous> (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:724:14)
+    at SMTPConnection._processResponse (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:634:16)
+    at SMTPConnection._onData (/Users/anton/GitHub/Notify/node_modules/smtp-connection/lib/smtp-connection.js:458:10)
+    at emitOne (events.js:77:13)
+    at TLSSocket.emit (events.js:169:7)
+    at readableAddChunk (_stream_readable.js:146:16)
+    at TLSSocket.Readable.push (_stream_readable.js:110:10)
+    at TLSWrap.onread (net.js:523:20)
+[2016-08-03 10:00:38.803] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 10:00:40.028] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3h.mail.yandex.net as 1470207640-dtVtYGe7nq-0dXuUK6t',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: '823e376f-0868-4096-8609-f184b5771df4@istudentapp.ru' }
+[2016-08-03 10:01:49.239] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 10:01:53.822] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 10:01:57.898] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 10:01:59.714] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 10:02:06.446] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 10:02:07.958] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2p.mail.yandex.net as 1470207727-pHvIPSvJl4-268WLllO',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: 'a5d25f72-4da9-9215-f4a6-b7d49b3e1ad6@istudentapp.ru' }
+[2016-08-03 10:02:10.815] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 10:02:11.952] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3p.mail.yandex.net as 1470207731-vGeXXs9W6H-2Bqe2HSs',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: '0d22caf8-3717-aa2d-6864-c14e62f46332@istudentapp.ru' }
+[2016-08-03 10:18:12.289] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 10:18:23.485] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2o.mail.yandex.net as 1470208703-teK2OYn1HC-IKGSAFwW',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: 'b7db18ba-68e9-b76c-5c0c-98cabca3215f@istudentapp.ru' }
+[2016-08-03 10:18:29.752] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2m.mail.yandex.net as 1470208709-FHxSIDX8fD-IRN024Ff',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: 'a274cbd6-f9db-f96a-ca74-3e75875128d1@istudentapp.ru' }
+[2016-08-03 11:31:51.787] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 11:31:52.887] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2m.mail.yandex.net as 1470213112-66Rqa5KVWa-VqNar6Hc',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: 'cccbac27-3c25-9c33-1607-2ac3882d1e1c@istudentapp.ru' }
+[2016-08-03 11:31:53.775] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2p.mail.yandex.net as 1470213113-F8yU1pKweD-Vr88KEL6',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: 'ebd0534a-bb1f-f262-731d-6ff738f7bc76@istudentapp.ru' }
+[2016-08-03 11:33:34.525] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 11:33:35.912] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3j.mail.yandex.net as 1470213215-C8eREWcCwt-XZUq3MxX',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: 'a66dc4ae-4990-7dd2-180a-4745aa56f361@istudentapp.ru' }
+[2016-08-03 11:33:36.930] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3j.mail.yandex.net as 1470213216-q9HRSuaKdx-XaUCx9R6',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: 'd79c63fe-4827-4f04-afe8-d74892ec48e1@istudentapp.ru' }
+[2016-08-03 11:34:30.310] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 11:34:31.825] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3h.mail.yandex.net as 1470213271-tq5jUsPNUw-YUXeR6sJ',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: 'fa3e84b0-5c04-cd22-6f6c-4cb2579b25ee@istudentapp.ru' }
+[2016-08-03 11:34:33.149] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2o.mail.yandex.net as 1470213273-xXNmh9me2m-YWGGQN8s',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: '9e98d4c6-6daa-6a67-ab54-6473fcaec5d3@istudentapp.ru' }
+[2016-08-03 12:04:55.303] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:04:57.147] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp1h.mail.yandex.net as 1470215097-S6kGo3fH5P-4tXGHruU',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: '85399c93-f8cf-bc30-658f-f24203ed0686@istudentapp.ru' }
+[2016-08-03 12:04:58.103] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp1h.mail.yandex.net as 1470215098-1NohpBF7ce-4vXShqiW',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: '201836da-1d1f-c271-edde-2efb4ea82b9b@istudentapp.ru' }
+[2016-08-03 12:05:09.089] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:05:10.665] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp1p.mail.yandex.net as 1470215110-xZXQjego2t-593qmmXF',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: '11589385-48e5-8b6f-d7f4-0dbb4db78e2c@istudentapp.ru' }
+[2016-08-03 12:05:11.860] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3m.mail.yandex.net as 1470215111-FpqHbRp1JZ-5BBqDO9f',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: '0e916684-fe38-ffa4-9c9b-a3e6c66f59a9@istudentapp.ru' }
+[2016-08-03 12:06:58.940] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:07:08.357] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:07:10.377] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:07:24.639] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:07:42.876] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:07:44.497] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:07:45.577] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:07:49.957] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:22:28.390] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:22:50.534] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:42:52.244] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:42:54.692] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:45:25.765] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:45:26.750] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2p.mail.yandex.net as 1470217526-4Ji3r1jXj1-jQ8WFsUw',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: '3195cdd9-9905-9b21-8870-22df8bec0c3e@istudentapp.ru' }
+[2016-08-03 12:45:27.547] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2p.mail.yandex.net as 1470217527-arjdwn8KBs-jR8mpNVq',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: '25d3a8f7-32e0-10ab-1f57-4bd1dfb05cfb@istudentapp.ru' }
+[2016-08-03 12:51:48.927] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:51:50.352] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3h.mail.yandex.net as 1470217910-5NxrMPZH4A-pnXG4BgH',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: 'bfe1fae1-d333-dcea-5072-0d6e8c0aabd3@istudentapp.ru' }
+[2016-08-03 12:51:51.369] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3p.mail.yandex.net as 1470217911-swQW7TJBuS-poq0LHMu',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: '28398ff0-6c4b-7f8a-3f4e-186aa6d7595b@istudentapp.ru' }
+[2016-08-03 12:52:23.877] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:52:24.757] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3p.mail.yandex.net as 1470217944-APbecSknCo-qOqa58bg',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: 'dee7a055-dad3-74ee-d88e-651495251970@istudentapp.ru' }
+[2016-08-03 12:52:25.549] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp1p.mail.yandex.net as 1470217945-Q6XrS0nU6r-qP3S3Wol',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: 'b1a15235-9355-7077-33d7-3a7e0f4c485f@istudentapp.ru' }
+[2016-08-03 12:52:59.178] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:53:00.330] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3o.mail.yandex.net as 1470217980-oIfZHLdcR8-qxBG4v8T',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: 'f46c4963-00c1-9fe6-e379-c7ae3049cdee@istudentapp.ru' }
+[2016-08-03 12:53:01.167] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3o.mail.yandex.net as 1470217981-8RSTUScEP7-r0B8Mg7b',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: '46cbe070-c461-9274-df3b-5b4753f0ce42@istudentapp.ru' }
+[2016-08-03 12:53:43.117] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:53:44.230] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2p.mail.yandex.net as 1470218024-GOtRxZvCoQ-rh80qweW',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: 'f43cfd0a-a049-4218-1d75-ed6a8f7162e6@istudentapp.ru' }
+[2016-08-03 12:53:45.141] [INFO] Notify - { accepted: [ 'anzuev@bk.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2p.mail.yandex.net as 1470218025-paOaatFNCj-ri8OpOHO',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@bk.ru' ] },
+  messageId: '086c302a-7252-eb95-adc0-6368bd8b8ecf@istudentapp.ru' }
+[2016-08-03 12:54:18.073] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:56:45.592] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:56:47.837] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:58:46.615] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:59:04.292] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 12:59:05.181] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp1h.mail.yandex.net as 1470218345-usNz78Cpk1-x4Xax20k',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: '1585b0f7-43ff-9a98-157c-56310fe4724d@istudentapp.ru' }
+[2016-08-03 13:00:35.611] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 13:00:36.433] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2h.mail.yandex.net as 1470218436-6Zz2FyWJUW-0aDOmcL9',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: 'adf79179-00fa-0203-a867-c9fd4f90557b@istudentapp.ru' }
+[2016-08-03 13:01:42.847] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 13:01:44.247] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp3j.mail.yandex.net as 1470218504-W0o52oxNt9-1hUStWe9',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: '893c5b39-2f09-c0a9-d812-78b157f2dacb@istudentapp.ru' }
+[2016-08-03 13:11:14.227] [INFO] Notify - Notify has been successfully configured and started
+[2016-08-03 13:11:15.104] [INFO] Notify - { accepted: [ 'anzuev@istudentapp.ru' ],
+  rejected: [],
+  response: '250 2.0.0 Ok: queued on smtp2p.mail.yandex.net as 1470219075-SwEYPqdq10-BE8OB81J',
+  envelope: { from: 'auth@istudentapp.ru', to: [ 'anzuev@istudentapp.ru' ] },
+  messageId: '57a19cc6-fe6a-8328-ab25-832569751c20@istudentapp.ru' }
